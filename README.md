@@ -51,6 +51,7 @@ Build a CRF Model to predict the treatment for a disease.
 Required Business Objective tasks were completed and CRF model was built and trained.
 
 #### Recommendation
+CRF model - F1 score is **0.9045**
 Treatment for 'hereditary retinoblastoma' is  **radiotherapy**
 
 
